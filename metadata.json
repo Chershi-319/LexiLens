@@ -1,0 +1,7 @@
+{
+  "name": "LexiLens - AI Vocabulary Tracker",
+  "description": "A mature, minimalist vocabulary tracking app. Capture words via camera or text, get AI-generated definitions, and practice via flashcards or spelling tests.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
